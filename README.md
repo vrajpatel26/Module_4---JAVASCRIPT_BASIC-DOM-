@@ -1,2 +1,2 @@
-# Module_4---JAVASCRIPT_BASIC-DOM-
+# Module_4-JAVASCRIPT_BASIC & DOM
 Module (JAVASCRIPT BASIC &amp; DOM) – 4
